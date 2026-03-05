@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raizor000
-- 🌱 I’m currently learning python, frameworks, databases, writing python programs
+- 🌱 I’m currently learning: PyQT6 Wrapper
 - 📫 How to reach me : email m4215284@gmail.com
 
 <!---
