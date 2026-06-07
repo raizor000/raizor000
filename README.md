@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @raizor000
-- 🌱 I’m currently learning: PyQT6 Wrapper
-- 📫 How to reach me : email m4215284@gmail.com
-
-<!---
-theAndrew2808/theAndrew2808 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning: java + minestom client development
+- 📫 How to reach me :
+  - email: raizor@cm2news.xyz / m4215284@gmail.com
+  - discord: @rzo000
+  
